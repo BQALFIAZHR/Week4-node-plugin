@@ -1,5 +1,5 @@
 1.	Steps to install dependencies
-	<img width="561" height="95" alt="image" src="https://github.com/user-attachments/assets/db7d2f10-c7c3-40fc-be52-53c3308d015d" />
+<img width="561" height="95" alt="image" src="https://github.com/user-attachments/assets/db7d2f10-c7c3-40fc-be52-53c3308d015d" />
 <img width="495" height="125" alt="image" src="https://github.com/user-attachments/assets/f3bcb9f8-2019-490a-a3ef-4f40dc47eef7" />
 <img width="866" height="472" alt="image" src="https://github.com/user-attachments/assets/e99e7ede-649c-46a9-8aac-b89250c291a5" />
 2.	Steps to run the project
